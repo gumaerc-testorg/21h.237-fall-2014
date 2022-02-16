@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 17c62c45-430d-f739-3e43-a5b1a0d1ecd5
 ---
@@ -17,7 +19,7 @@ There are no prerequisites for this course.
 Course Description
 ------------------
 
-This course investigates the relationship between urban architecture and political, social, and cultural history of Athens in the 5th and 4th centuries BC. It surveys and analyzes archeological and literary evidence, including the sanctuary of Athena on the Acropolis, the Agora, Greek houses, the histories of Herodotus and Thucydides, plays of Sophocles and Aristophanes, and the panhellenic sanctuaries of Delphi and Olympia.
+This course investigates the relationship between urban architecture and political, social, and cultural history of Athens in the 5{{< sup "th" >}} and 4{{< sup "th" >}} centuries BC. It surveys and analyzes archeological and literary evidence, including the sanctuary of Athena on the Acropolis, the Agora, Greek houses, the histories of Herodotus and Thucydides, plays of Sophocles and Aristophanes, and the panhellenic sanctuaries of Delphi and Olympia.
 
 Required Books
 --------------
