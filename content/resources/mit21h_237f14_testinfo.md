@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 93d37d2e-550f-ba36-82ed-9bfb35927215
 resourcetype: Document
 title: '21H.237F14 The City Of Athens - Assignments: Test Info'
 uid: c966fbb9-86f1-a934-e9b6-1cf61214d79f

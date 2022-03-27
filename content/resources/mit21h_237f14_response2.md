@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 93d37d2e-550f-ba36-82ed-9bfb35927215
 resourcetype: Document
 title: 21H.237F14 The City of Athens - Response Paper 2
 uid: 00ffca91-0ae5-3d86-f107-c4828cdfa64c
