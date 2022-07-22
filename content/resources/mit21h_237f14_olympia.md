@@ -6,6 +6,7 @@ file: /courses/21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014/aebd0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21H.237F14 The City of Athens - Lecture Slides: Panhellenic Athens II: O
 uid: aebd06ca-0cfd-523d-1a57-6b199be36255
 ---
 This resource contains information regarding the city of athens - lecture slides: panhellenic athens II: olympia.
-

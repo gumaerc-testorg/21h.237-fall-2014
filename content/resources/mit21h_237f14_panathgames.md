@@ -6,6 +6,7 @@ file: /courses/21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014/46d51
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 21H.237F14 The City of Athens - Research Project Example 2
 uid: 46d51655-35bb-ad17-aa2f-ef81328f50d7
 ---
 This resource contains information regarding research project example 2.
-

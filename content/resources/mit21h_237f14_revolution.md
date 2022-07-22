@@ -6,6 +6,7 @@ file: /courses/21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014/6a2f5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21H.237F14 The City of Athens - Lecture Slides: Democratic Revolution'
 uid: 6a2f50fc-fb57-e741-3b8c-63c4b54f5eb0
 ---
 This resource contains information regarding the city of athens - lecture slides: Revolution.
-

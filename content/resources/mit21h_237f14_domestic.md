@@ -6,6 +6,7 @@ file: /courses/21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014/f2eeb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21H.237F14 The City of Athens - Lecture Slides: Greek Domestic Space'
 uid: f2eeb348-7fb0-860c-41f4-fe5c2b9f87e8
 ---
 This resource contains information regarding the city of athens - lecture slides: greek domestic space.
-
