@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding the Athenians and their
   Gods.
 file: /courses/21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014/73d99b216860b40fc5eea76e2f87b08b_MIT21H_237F14_Gods.pdf
+file_size: 1639924
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding research project proposal.
 file: /courses/21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014/583fb1170b64e248416e3a4f1515e8a2_MIT21H_237F14_TopicProposl.pdf
+file_size: 136592
 file_type: application/pdf
 learning_resource_types:
 - Assignments
