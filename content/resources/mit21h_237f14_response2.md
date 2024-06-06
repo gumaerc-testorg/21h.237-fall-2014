@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding response paper 2.
 file: /courses/21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014/00ffca910ae53d86f107c4828cdfa64c_MIT21H_237F14_Response2.pdf
+file_size: 788245
 file_type: application/pdf
 learning_resource_types:
 - Assignments
