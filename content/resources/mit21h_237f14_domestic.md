@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding the city of athens - lecture
   slides: greek domestic space.'
-file: /courses/21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014/f2eeb3487fb0860c41f4fe5c2b9f87e8_MIT21H_237F14_Domestic.pdf
+file: /ol-ocw-studio-app/courses/21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014/f2eeb3487fb0860c41f4fe5c2b9f87e8_MIT21H_237F14_Domestic.pdf
 file_size: 1560864
 file_type: application/pdf
 learning_resource_types:
