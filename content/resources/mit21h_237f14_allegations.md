@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding research project example
   1.
-file: /ol-ocw-studio-app/courses/21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014/be469fa24138dc54802056558f836434_MIT21H_237F14_Allegations.pdf
+file: /courses/21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014/be469fa24138dc54802056558f836434_MIT21H_237F14_Allegations.pdf
 file_size: 426085
 file_type: application/pdf
 learning_resource_types:
