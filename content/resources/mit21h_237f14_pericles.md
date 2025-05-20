@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding the city of athens - lecture
   slides: Pericles.'
-file: /ol-ocw-studio-app/courses/21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014/f8459ed9f26a91ae106abf2cccbfe543_MIT21H_237F14_Pericles.pdf
+file: /courses/21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014/f8459ed9f26a91ae106abf2cccbfe543_MIT21H_237F14_Pericles.pdf
 file_size: 2480320
 file_type: application/pdf
 learning_resource_types:
