@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding class test information.
-file: /ol-ocw-studio-app/courses/21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014/c966fbb986f1a934e9b61cf61214d79f_MIT21H_237F14_TestInfo.pdf
+file: /courses/21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014/c966fbb986f1a934e9b61cf61214d79f_MIT21H_237F14_TestInfo.pdf
 file_size: 582062
 file_type: application/pdf
 learning_resource_types:
