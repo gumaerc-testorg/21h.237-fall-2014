@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding the city of athens - lecture
   slides: panhellenic athens I: delphi.'
-file: /courses/21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014/fe2e87ce50afa7fea21cd16d3300be47_MIT21H_237F14_Delphi.pdf
+file: /ol-ocw-studio-app/courses/21h-237-the-city-of-athens-in-the-age-of-pericles-fall-2014/fe2e87ce50afa7fea21cd16d3300be47_MIT21H_237F14_Delphi.pdf
 file_size: 7468369
 file_type: application/pdf
 learning_resource_types:
