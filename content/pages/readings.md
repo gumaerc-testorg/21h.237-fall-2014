@@ -10,7 +10,7 @@ uid: 535cc74f-6d3d-a9e5-d74a-195c250ab244
 
 \[H\] = Hurwit, Jeffrey M. _The Acropolis in the Age of Pericles_. Cambridge University Press, 2004. ISBN: 9780521527408.
 
-\[S\] = Samons II, Loren J., ed. _The Cambridge Companion to the Age of Pericles_. Cambridge University Press, 2007. ISBN: 9780521003896. \[Preview with [Google Books](http://books.google.com/books?id=QAePyZ_Z1WkC&pg=PAfrontcover)\]
+\[S\] = Samons II, Loren J., ed. _The Cambridge Companion to the Age of Pericles_. Cambridge University Press, 2007. ISBN: 9780521003896. \[Preview with {{% resource_link "18991e25-80b6-4d23-a76e-ea7706148641" "Google Books" %}}\]
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -104,7 +104,7 @@ The Athenian Agora
 {{< tdopen >}}
 
 
-Millett, Paul. "Encounters in the Agora." Chapter 12 in _Kosmos: Essays in Order, Conflict and Community in Classical Athens_. Edited by Paul Cartledge, Paul Millett, and Sitta von Reden. Cambridge University Press, 2002. ISBN: 9780521525930. \[Preview with [Google Books](http://books.google.com/books?id=1TaEK1CgR9AC&pg=PA205=onepage)\]
+Millett, Paul. "Encounters in the Agora." Chapter 12 in _Kosmos: Essays in Order, Conflict and Community in Classical Athens_. Edited by Paul Cartledge, Paul Millett, and Sitta von Reden. Cambridge University Press, 2002. ISBN: 9780521525930. \[Preview with {{% resource_link "6a464e3a-dee7-42df-a142-e081d38250b8" "Google Books" %}}\]
 
 \[S\] Kallet, Lisa. Chapter 3: The Athenian Economy.
 
@@ -234,7 +234,7 @@ The City Dionysia: The Theater and Festival of Dionysus
 
 \[S\] Henderson, Jeffrey. Chapter 7: Drama and Democracy.
 
-Osborne, Robin. "Competitive Festivals and the Polis: A Context for Dramatic Festivals at Athens." Chapter 8 in _Athenian Democracy_. Edited by P. J. Rhodes. Oxford University Press, 2004. ISBN: 9780195221404. \[Preview with [Google Books](http://books.google.com/books?id=GIEbW5w8klsC&pg=PA207=onepage)\]
+Osborne, Robin. "Competitive Festivals and the Polis: A Context for Dramatic Festivals at Athens." Chapter 8 in _Athenian Democracy_. Edited by P. J. Rhodes. Oxford University Press, 2004. ISBN: 9780195221404. \[Preview with {{% resource_link "ad093ad6-7798-4afe-a8eb-d48556153974" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -286,9 +286,9 @@ Gymnasia
 {{< tdopen >}}
 
 
-Wycherley, R. E. "[Peripatos: The Athenian Philosophical Scene–II](http://www.jstor.org/stable/640740)." _Greece & Rome_ 9, no. 1 (1962): 2–21.
+Wycherley, R. E. "{{% resource_link "7ab8072b-c049-42ae-afbf-b14189b6dc7b" "Peripatos: The Athenian Philosophical Scene–II" %}}." _Greece & Rome_ 9, no. 1 (1962): 2–21.
 
-Fisher, Nick. "Gymnasia and the Democratic Values of Leisure." Chapter 6 in _Kosmos: Essays in Order, Conflict and Community in Classical Athens_. Edited by Paul Cartledge, Paul Millett, and Sitta von Reden. Cambridge University Press, 2002. ISBN: 9780521525930. \[Preview with [Google Books](http://books.google.com/books?id=1TaEK1CgR9AC&pg=PA84=onepage)\]
+Fisher, Nick. "Gymnasia and the Democratic Values of Leisure." Chapter 6 in _Kosmos: Essays in Order, Conflict and Community in Classical Athens_. Edited by Paul Cartledge, Paul Millett, and Sitta von Reden. Cambridge University Press, 2002. ISBN: 9780521525930. \[Preview with {{% resource_link "11fac5f9-1ed2-4d12-a017-f5d6c4e7ac84" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -306,9 +306,9 @@ Greek Domestic Space
 
 Tsakirgis, Barbara. "Living Near the Agora: Houses and Households in Central Athens." In _The Athenian Agora: New Perspectives on an Ancient Site_. Edited by John McK. Camp II and Craig A. Mauzy. American School of Classical Studies at Athens, 2010. ISBN: 9783805340823.
 
-Jameson, Michael. "Private Space and the Greek City." Chapter 7 in _The Greek City: From Homer to Alexander_. Edited by Oswyn Murray and Simon Price. Clarendon Press, 1991. ISBN: 9780198147916. \[Preview with [Google Books](http://books.google.com/books?id=A1t8DIkBpxUC&pg=PA171=onepage)\]
+Jameson, Michael. "Private Space and the Greek City." Chapter 7 in _The Greek City: From Homer to Alexander_. Edited by Oswyn Murray and Simon Price. Clarendon Press, 1991. ISBN: 9780198147916. \[Preview with {{% resource_link "d6305b5d-b893-4d4c-aa21-b1dd2e354660" "Google Books" %}}\]
 
-Nevett, Lisa C. "A Space for 'Hurling the Furniture'? Architecture and the Development of Greek Domestic Symposia." Chapter 3 in _Domestic Space in Classical Antiquity_. Cambridge University Press, 2010. ISBN: 9780521789455. \[Preview with [Google Books](http://books.google.com/books?id=ru0jXj6A_9IC&pg=PA43=onepage)\]
+Nevett, Lisa C. "A Space for 'Hurling the Furniture'? Architecture and the Development of Greek Domestic Symposia." Chapter 3 in _Domestic Space in Classical Antiquity_. Cambridge University Press, 2010. ISBN: 9780521789455. \[Preview with {{% resource_link "dc2f98f1-daf1-4469-b41b-62a89465e17b" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -374,7 +374,7 @@ Pythian Apollo and the Delphic Oracle
 {{< tdopen >}}
 
 
-Lloyd-Jones, Hugh. "[The Delphic Oracle](http://dx.doi.org/10.1017/S0017383500018283)." _Greece & Rome_ 23, no. 1 (1976): 60–73.
+Lloyd-Jones, Hugh. "{{% resource_link "289a5957-06a4-4359-90e7-908964b5cf2b" "The Delphic Oracle" %}}." _Greece & Rome_ 23, no. 1 (1976): 60–73.
 
 Scott, Michael. "Oracle." Chapter 1 in _Delphi: A History of the Center of the Ancient World_. Princeton University Press, 2015. ISBN: 9780691169842.
 
