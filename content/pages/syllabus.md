@@ -26,19 +26,19 @@ This course investigates the relationship between urban architecture and politic
 
 Hurwit, Jeffrey M. *The Acropolis in the Age of Pericles*. Cambridge University Press, 2004. ISBN: 9780521527408.
 
-Samons II, Loren J., ed. *The Cambridge Companion to the Age of Pericles*. Cambridge University Press, 2007. ISBN: 9780521003896. \[Preview with [Google Books](http://books.google.com/books?id=QAePyZ_Z1WkC&pg=PAfrontcover)\]
+Samons II, Loren J., ed. *The Cambridge Companion to the Age of Pericles*. Cambridge University Press, 2007. ISBN: 9780521003896. \[Preview with {{% resource_link "18991e25-80b6-4d23-a76e-ea7706148641" "Google Books" %}}\]
 
 For additional readings, please see the {{% resource_link "535cc74f-6d3d-a9e5-d74a-195c250ab244" "Readings" %}} section.
 
 ## Online Resources
 
-[Athenian Agora Excavations](http://www.agathe.gr/), the website of the American School of Classical Studies in Athens, who have been responsible for excavating the Agora for many decades now.
+{{% resource_link "8fd6f115-a281-4eda-80cc-95bfb90a57c7" "Athenian Agora Excavations" %}}, the website of the American School of Classical Studies in Athens, who have been responsible for excavating the Agora for many decades now.
 
-[JSTOR](http://www.jstor.org/), the scholarly journal archive, including several relevant classical studies and archaeology journals.
+{{% resource_link "8579feb5-5a99-4f6f-8736-7017504da8df" "JSTOR" %}}, the scholarly journal archive, including several relevant classical studies and archaeology journals.
 
-[The Perseus Digital Library](http://www.perseus.tufts.edu/) has a wealth of information relevant to our subject: ancient texts and translations, extensive photo archives of an impressive range of sites, and plenty of secondary material.
+{{% resource_link "75005591-3b1c-4518-91ff-264313947fcc" "The Perseus Digital Library" %}} has a wealth of information relevant to our subject: ancient texts and translations, extensive photo archives of an impressive range of sites, and plenty of secondary material.
 
-[The Stoa Consortium](https://blog.stoa.org/), 'A Consortium for Electronic Publication in the Humanities', with links to many projects of interest.
+{{% resource_link "75bb2176-d733-43bc-bff5-995b03414231" "The Stoa Consortium" %}}, 'A Consortium for Electronic Publication in the Humanities', with links to many projects of interest.
 
 ## Assessment
 
@@ -82,11 +82,11 @@ For further detail on the response papers and the research project, please see t
 
 ## The Writing and Communication Center
 
-[The Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) offers ***free*** one-on-one professional advice from lecturers who are published writers about all types of academic, creative, and professional writing and about all aspects of oral presentations.
+{{% resource_link "8d7e2b68-7bcf-42da-bc84-268de20b8595" "The Writing and Communication Center" %}} offers ***free*** one-on-one professional advice from lecturers who are published writers about all types of academic, creative, and professional writing and about all aspects of oral presentations.
 
 ## Policy on Plagiarism
 
-Plagiarism - the use of another's intellectual work without acknowledgement - is a serious offense. Students who plagiarize will be liable to receive an F in the subject; and the case will be forwarded to the Office of Student Citizenship. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted and in all oral presentations, including images or texts in other media as well as materials collected online. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/), and [Academic Integrity at MIT: A Handbook for Students](http://integrity.mit.edu/).
+Plagiarism - the use of another's intellectual work without acknowledgement - is a serious offense. Students who plagiarize will be liable to receive an F in the subject; and the case will be forwarded to the Office of Student Citizenship. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted and in all oral presentations, including images or texts in other media as well as materials collected online. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the {{% resource_link "8d7e2b68-7bcf-42da-bc84-268de20b8595" "Writing and Communication Center" %}}, and {{% resource_link "8bf360c2-660d-48bb-82e1-3c4706876b0e" "Academic Integrity at MIT: A Handbook for Students" %}}.
 
 ## Policy on Late Submission of Papers / Projects
 
